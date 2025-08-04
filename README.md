@@ -1,2 +1,2 @@
 # Web_Scrapper
-Developed in Programming Fundamental to extract website data using Python libraries.
+This is a basic Web Scraper Tool developed in Python using Tkinter as part of the Programming Fundamentals course. It extracts text content (<p> tags) and HTML source code from a given website URL using requests and BeautifulSoup, and saves them in two separate uniquely named .txt files. The tool provides a simple GUI where users can input a URL and click "Scrap it!" to start the extraction process.
